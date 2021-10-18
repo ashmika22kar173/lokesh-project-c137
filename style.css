@@ -1,0 +1,22 @@
+#header
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+
+}
+
+.hed{
+font-size: 15;
+color: black;
+}
+
+#input1{
+width: 300px;
+
+}
+
+canvas{
+border: 5px solid black;
+
+}
